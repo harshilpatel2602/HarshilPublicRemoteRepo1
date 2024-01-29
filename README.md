@@ -6,4 +6,4 @@ Now making a change and Tirth is fetching the changes in local repo.
 
 Now I am making change in local repo and pushing them in HarshilRemoteRepo
 
-Creating an intentional conflict
+Now I have resolved the conflict and pushing it in HarshilRemoteRepo
